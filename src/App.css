@@ -36,3 +36,137 @@
     transform: rotate(360deg);
   }
 }
+
+#grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 15rem);
+  grid-template-rows: 13.5rem 13.5rem 13.5rem 13.5rem;
+  gap: 1rem;
+}
+
+.cardHidden {
+  background-image: url(Media/questionmark-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card1 {
+  background-image: url(Media/pic1-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card2 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card3 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card4 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card5 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card6 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card7 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card8 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card9 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card10 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card11 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card12 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card13 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card14 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card15 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+#card16 {
+  background-image: url(Media/pic2-memory.png);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
